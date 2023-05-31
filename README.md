@@ -1,5 +1,7 @@
 # ruri-portfolio
 
+> Jobs and Projects
+
 Visit!
 [Portfolio](https://ruriin.github.io/ruri-portfolio/)
 
